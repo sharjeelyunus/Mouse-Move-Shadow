@@ -1,2 +1,3 @@
 # Mouse-Move-Shadow
- life: https://www.sharjeelyunus.me/Mouse-Move-Shadow/
+
+life: https://sharjeelyunus.github.io/Mouse-Move-Shadow/
